@@ -15,8 +15,8 @@
 .h1{
     position: absolute;
     text-align: center;
-    padding-left: 460px;
-    padding-top: 140px;
+    padding-left: 34%;
+    padding-top: 11%;
     color: white;
     font-size: 100px;
     font-weight: bold;
@@ -36,7 +36,7 @@
 #h2{
     position: absolute;
     text-align: center;
-    padding-left: 630px;
+    padding-left: 40%;
     color: cornflowerblue;
     font-size: 40px;
     font-weight: bold;
@@ -120,7 +120,7 @@
     border: 0.1px;
     border-radius: 30px;
     background-color: aqua;
-    margin-left: 46%;
+    margin-left: 44%;
     margin-top: 1760px;
 }
 .img4{
@@ -129,7 +129,7 @@
 /*  */
 .f1{
     position: absolute;
-    padding-left: 800px;
+    padding-left: 55%;
     font-weight: bold;
     font-size: 80px;
     padding-top: 50px ;
@@ -137,7 +137,7 @@
 .f2{
     position: absolute;
     padding-top: 360px;
-    padding-left: 800px;
+    padding-left: 55%;
     font-size: 30px ;
 }
 .button2{
@@ -148,7 +148,7 @@
     border: 0.1px;
     border-radius: 30px;
     background-color: aqua;
-    margin-left: 53%;
+    margin-left: 55%;
     margin-top: 630px;
 }
 /*  */
@@ -157,7 +157,7 @@
 }
 .g1{
     position: absolute;
-    padding-left: 10px;
+    padding-left: 2%;
     font-weight: bold;
     font-size: 80px;
     padding-top: 35px ;
@@ -165,7 +165,7 @@
 .g2{
     position: absolute;
     padding-top: 320px;
-    padding-left: 10px;
+    padding-left: 2%;
     font-size: 30px;
 }
 .button3{
@@ -176,7 +176,7 @@
     border: 0.1px;
     border-radius: 30px;
     background-color: aqua;
-    margin-left: 10px;
+    margin-left: 2%;
     margin-top: 600px;
 }
 /*  */
@@ -188,22 +188,22 @@
     position: absolute;
     font-weight: bold;
     padding-top: 30px;
-    padding-left: 605px;
+    padding-left: 42.5%;
     font-size: 40px;
 }
 #i2{
     color: white;
     position: absolute;
     font-weight: bold;
-    padding-top: 350px;
-    padding-left: 269px;
+    padding-top: 23%;
+    padding-left: 18.2%;
     font-size: 35px;
 }
 #i3{
     color: white;
     position: absolute;
-    padding-top: 450px;
-    padding-left: 180px;
+    padding-top: 29%;
+    padding-left: 13%;
     font-size: 15px;
     text-align: center;
 }
@@ -211,15 +211,15 @@
     color: white;
     position: absolute;
     font-weight: bold;
-    padding-top: 350px;
-    padding-left: 645px;
+    padding-top: 23%;
+    padding-left: 44%;
     font-size: 35px;
 }
 #i5{
     color: white;
     position: absolute;
-    padding-top: 450px;
-    padding-left: 610px;
+    padding-top: 29%;
+    padding-left: 41.5%;
     font-size: 15px;
     text-align: center;
 }
@@ -227,15 +227,15 @@
     color: white;
     position: absolute;
     font-weight: bold;
-    padding-top: 350px;
-    padding-left: 1125px;
+    padding-top: 23%;
+    padding-left: 75%;
     font-size: 35px;
 }
 #i7{
     color: white;
     position: absolute;
-    padding-top: 450px;
-    padding-left: 1045px;
+    padding-top: 29%;
+    padding-left: 70.5%;
     font-size: 15px;
     text-align: center;
 }
@@ -247,15 +247,15 @@
     color: blue;
     position: absolute;
     font-weight: bold;
-    padding-top: 70px;
+    padding-top: 2%;
     padding-left: 38%;
     font-size: 60px;
 }
 #o2{
     color: blue;
     position: absolute;
-    padding-top: 220px;
-    padding-left: 33%;
+    padding-top: 13%;
+    padding-left: 34%;
     font-size: 18px;
     text-align: center;
 }
@@ -278,7 +278,7 @@
     color: blue;
     position: absolute;
     padding-top: 100px;
-    padding-left: 31%;
+    padding-left: 35%;
     font-size: 18px;
     text-align: center;
     font-weight: bold;
@@ -287,18 +287,15 @@
     color: blue;
     position: absolute;
     padding-top: 180px;
-    padding-left: 41%;
+    padding-left: 44%;
     font-size: 30px;
     font-weight: bold;
 }
 .icon{
-    padding-left: 640px ;
-    padding-top: 300px;
+    padding-left: 45.3% ;
+    padding-top: 19%;
 }
 /*  */
-.s01{
-    position: absolute;
-}
 a{
     text-decoration: none;
     color: white;
@@ -307,40 +304,40 @@ a{
     position: absolute;
     font-weight: bold;
     color: white;
-    padding-top: 500px;
-    padding-left: 100px;
+    padding-top: 30%;
+    padding-left: 15%;
     font-size: 15px;
 }
 #s02{
     position: absolute;
     font-weight: bold;
     color: white;
-    padding-top: 550px;
-    padding-left: 100px;
+    padding-top: 33%;
+    padding-left: 15%;
     font-size: 15px;
 }
 .s03{
     position: absolute;
     font-weight: bold;
     color: white;
-    padding-top: 500px;
-    padding-left: 900px;
+    padding-top: 30%;
+    padding-left: 60%;
     font-size: 15px;
 }
 .s04{
     position: absolute;
     font-weight: bold;
     color: white;
-    padding-top: 500px;
-    padding-left: 1100px;
+    padding-top: 30%;
+    padding-left: 70%;
     font-size: 15px;
 }
 .s05{
     position: absolute;
     font-weight: bold;
     color: white;
-    padding-top: 500px;
-    padding-left: 1300px;
+    padding-top: 30%;
+    padding-left: 80%;
     font-size: 15px;
 }
 /*  */
@@ -406,7 +403,6 @@ nav a:hover{
   .dropdown:hover .dropdown-content {
     display: block;
   }
-
 
 
 
